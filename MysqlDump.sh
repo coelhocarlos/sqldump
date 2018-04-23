@@ -4,7 +4,7 @@
 #DATE=$(date +%d-%m-%Y)
 #BACKUP_DIR="/var/www/html/msqlbackup"
 #MYSQL_USER="root"
-#MYSQL_PASSWORD="1q2w3e"
+#MYSQL_PASSWORD=""
 #MYSQL=/usr/bin/mysql
 #MYSQLDUMP=/usr/bin/mysqldump
 
