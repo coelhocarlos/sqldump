@@ -35,8 +35,8 @@
 backup_parent_dir="/var/www/html/msqlbackup"
 
 # MySQL settings
-mysql_user="root"
-mysql_password=""
+mysql_user="zombie"
+mysql_password="1q2w3e"
 
 # Read MySQL password from stdin if empty
 if [ -z "${mysql_password}" ]; then
